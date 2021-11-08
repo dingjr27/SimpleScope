@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MS9280
+D Video ADC (32 Mhz), SSOP-28
+K ADC CAN VIDEO
+F https://www.analog.com/media/en/technical-documentation/data-sheets/AD9280.pdf
+$ENDCMP
+#
+#End Doc Library
